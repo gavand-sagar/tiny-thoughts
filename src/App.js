@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div className="App">
-       Welcome to {result}
+       Welcome to {result}      
     </div>
   );
 }
